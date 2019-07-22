@@ -11,3 +11,7 @@ public class Main {
 	}
 
 }
+
+class Human{
+	String name;
+}
